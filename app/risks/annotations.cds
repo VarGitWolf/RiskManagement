@@ -41,6 +41,7 @@ annotate RiskService.Risks with @(UI: {
         Target: '@UI.FieldGroup#Main',
     }],
     FieldGroup #Main: {Data: [
+        {Value: title},
         {Value: miti_ID},
         {Value: owner},
         {Value : bp_BusinessPartner},

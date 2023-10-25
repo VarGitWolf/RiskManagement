@@ -7,7 +7,7 @@
       "target": "$1"
     },
     {
-      "source": "^/service/(.*)$",
+      "source": "^//odata/v4/service/(.*)$",
       "destination": "srv-api"
     }
   ]
